@@ -1,0 +1,6 @@
+.movieSection{
+  width: 100%;
+  float: left;
+  display: flex;
+  gap: 10px;
+}
